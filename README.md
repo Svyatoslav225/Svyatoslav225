@@ -1,5 +1,5 @@
 - 👋 Hi, I’m С# coder
-- 👀 I’m interested in C#/C++/html/css maybe assembler/lua/JS
+- 👀 I’m interested in C#/C++/html/css/ maybe lua
   
 
 <!---
